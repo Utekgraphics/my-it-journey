@@ -89,3 +89,62 @@ single second your computer is running.
 
 *Follow my journey - I post daily updates here and 
 on LinkedIn, Twitter and Reddit* 💪
+
+---
+
+## 📅 Day 3 — Data, Storage, RAM & Performance
+**Date:** 23nd April 2026
+*(Posted a day late — consistency over perfection!)*
+
+### What I Learned:
+
+#### Everything in a Computer is a Number
+- Computers are digital - photos, music, text are 
+  all represented as numbers
+- All operations are a form of arithmetic
+- Example: number 228 = 11100100 in binary
+- Example: lowercase "j" = 01101010 in ASCII encoding
+
+#### Bits & Bytes
+- 8 bits = 1 Byte
+- Byte is the standard unit of digital storage
+
+| Unit | Size | Real World Example |
+|---|---|---|
+| Kilobyte (kB) | 1,000 Bytes | A typical email (~2kB) |
+| Megabyte (MB) | 1,000² Bytes | A song (~5MB) or novel (~1.5MB) |
+| Gigabyte (GB) | 1,000³ Bytes | A 1080p movie (~5GB) |
+| Terabyte (TB) | 1,000⁴ Bytes | Entire major libraries |
+| Petabyte (PB) | 1,000⁵ Bytes | All data held by a major tech company |
+
+#### RAM vs Long Term Storage
+- RAM (Random Access Memory) = short term, 
+  extremely fast intermediate storage
+- RAM speed: ~20,000 MBps
+- RAM latency: ~10 nanoseconds
+- SSD latency: a few microseconds (almost 1000x 
+  slower than RAM)
+- More RAM = faster and smoother performance
+
+#### Throughput vs Latency
+| Term | Definition |
+|---|---|
+| Throughput | Total amount of data transferred in a given time |
+| Latency | The delay before data transfer begins |
+
+#### CPU vs GPU Performance
+- Both made up of cores performing one operation 
+  at a time
+- Both have set clock speeds determining how often 
+  operations are performed
+- Both measured in watts (energy consumption)
+- More powerful devices = more energy = more heat generated
+
+### Key Takeaway 🤯
+RAM is almost 1000x faster than even the fastest SSD. 
+That single fact explains why RAM matters so much 
+for device performance.
+
+### Status: ✅ Completed
+### Next: Continuing into deeper storage and 
+### performance concepts
