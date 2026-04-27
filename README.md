@@ -87,10 +87,6 @@ single second your computer is running.
 
 ---
 
-*Follow my journey - I post daily updates here and 
-on LinkedIn, Twitter and Reddit* 💪
-
----
 
 ## 📅 Day 3 — Data, Storage, RAM & Performance
 **Date:** 23nd April 2026
@@ -146,5 +142,42 @@ That single fact explains why RAM matters so much
 for device performance.
 
 ### Status: ✅ Completed
-### Next: Continuing into deeper storage and 
-### performance concepts
+
+---
+
+## 📅 Day 4 — The Origin of the Internet
+**Date:** Monday, 27th April 2026
+
+### What I Learned:
+
+#### ARPANET - Where It All Started
+- Founded in **1969**, funded by the United States government
+- Full name: **Advanced Research Project Agency Network**
+- Purpose: Connect supercomputing centers run by 
+  government agencies and universities
+- This was the very first network, the earliest 
+  form of what we now call the internet
+
+#### TCP/IP - The Language of the Internet
+- Full name: **Transmission Control Protocol / 
+  Internet Protocol**
+- Created to provide a **universal standard** for 
+  how data is transferred across different networks
+- Researched and developed throughout the **1970s**
+- Officially adopted in the **early 1980s**
+
+#### How the Internet Was Formed
+| Year | Event |
+|---|---|
+| 1969 | ARPANET launched by US government |
+| 1970s | TCP/IP researched and developed |
+| Early 1980s | TCP/IP officially adopted |
+| After 1980s | Different networks adopted TCP/IP and became interconnected — forming the internet |
+
+### Key Takeaway 🤯
+The internet was not invented by one person or one 
+company. It evolved from a government funded university 
+network into a global interconnected system through 
+the adoption of a universal communication standard TCP/IP.
+
+### Status: ✅ Completed
