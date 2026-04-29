@@ -55,7 +55,7 @@ Binary 101 = Decimal 5
 
 ---
 
-# 📅 Day 2 — Inside the CPU
+# 📅 Day 2 - Inside the CPU
 **Date:** 22nd April 2026
 
 ### What I Learned:
@@ -88,7 +88,7 @@ single second your computer is running.
 ---
 
 
-## 📅 Day 3 — Data, Storage, RAM & Performance
+## 📅 Day 3 - Data, Storage, RAM & Performance
 **Date:** 23nd April 2026
 *(Posted a day late — consistency over perfection!)*
 
@@ -145,7 +145,7 @@ for device performance.
 
 ---
 
-## 📅 Day 4 — The Origin of the Internet
+## 📅 Day 4 - The Origin of the Internet
 **Date:** Monday, 27th April 2026
 
 ### What I Learned:
@@ -184,7 +184,7 @@ the adoption of a universal communication standard TCP/IP.
 
 ---
 
-## 📅 Day 5 — WWW, Browsers, Servers & Networks
+## 📅 Day 5 - WWW, Browsers, Servers & Networks
 **Date:** Tuesday, 28th April 2026
 
 ### What I Learned:
