@@ -181,3 +181,60 @@ network into a global interconnected system through
 the adoption of a universal communication standard TCP/IP.
 
 ### Status: ✅ Completed
+
+---
+
+## 📅 Day 5 — WWW, Browsers, Servers & Networks
+**Date:** Tuesday, 28th April 2026
+
+### What I Learned:
+
+#### The World Wide Web
+- Invented by **Tim Berners-Lee in 1989**
+- WWW = collection of interlinked websites 
+  and web resources
+- Important distinction:
+  - **Internet** = the global infrastructure 
+    (network of networks)
+  - **WWW** = what sits on top of the internet 
+    (websites, web resources)
+
+#### Web Browsers
+- Rose to popularity in the **1990s**
+- Introduced a user friendly interface for 
+  browsing multimedia content
+- Allowed users to interact with each other online
+- Transformed the internet from a technical tool 
+  to something accessible to everyone
+
+#### How a Browser Requests Data
+- Browser sends a request to a server
+- Data does not arrive all at once, it comes 
+  bit by bit
+- Order of loading:
+  1. Text loads first
+  2. Images follow after
+- A single server can distribute data to numerous 
+  computers simultaneously
+
+#### What is a Network?
+A network is two or more computers or devices 
+linked together to share information.
+
+#### Types of Networks
+| Type | Full Name | Coverage |
+|---|---|---|
+| LAN | Local Area Network | Home, office or single building |
+| CAN | Campus Area Network | Multiple buildings within a campus e.g university or hospital |
+| WAN | Wide Area Network | Cities, countries and continents - the internet is the largest WAN |
+
+### Key Takeaway 🤯
+The internet and the World Wide Web are NOT the 
+same thing. The internet is the infrastructure. 
+The WWW is the collection of websites built on 
+top of it. Tim Berners-Lee invented the WWW in 
+1989 - one idea that changed how billions of 
+people access information forever.
+
+### Status: ✅ Completed
+### Next: OSI Model
