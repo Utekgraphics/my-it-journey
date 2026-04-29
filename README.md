@@ -238,3 +238,57 @@ people access information forever.
 
 ### Status: ✅ Completed
 ### Next: OSI Model
+
+---
+
+## 📅 Day 6 - The OSI Model
+**Date:** Wednesday, 29th April 2026
+
+### What I Learned:
+
+#### What is the OSI Model?
+- Full name: **Open Systems Interconnection Model**
+- Developed in the **1970s and 1980s**
+- A conceptual framework that breaks networking 
+  into **7 separate layers**
+- Each layer refers to a specific set of functions
+- Each layer only communicates with the layer 
+  directly above and below it
+
+#### The 7 Layers
+
+| Layer | Name | Key Function | Examples |
+|---|---|---|---|
+| 1 | Physical | Transmits raw bits over a medium | Ethernet cables (CAT5/CAT6), Bluetooth, Modem, Repeater |
+| 2 | Data Link | Node to node transfer, MAC addressing | MAC addresses (48 bit), Switches, NIC, Wi-Fi |
+| 3 | Network | Logical addressing and routing | IP addresses, Routers, Data centers |
+| 4 | Transport | End to end communication, segmentation | TCP, UDP, Port numbers |
+| 5 | Session | Opens, maintains and closes sessions | NetBIOS, APIs, Authentication, Video calls |
+| 6 | Presentation | Data translation, encryption, compression | SSL/TLS, JPEG, PNG, MP4, ASCII |
+| 7 | Application | Interface between user and network | HTTP, HTTPS, DNS, FTP, SMTP, Web browsers |
+
+#### MAC Address Breakdown (Layer 2)
+- Total: **48 bits**
+- First 24 bits = Manufacturer identifier
+- Last 24 bits = Device specific identifier
+
+#### Memory Trick 😄
+To remember all 7 layers in order:
+
+> Please Do Not Throw Sausage Pizza Away
+
+P = Physical
+D = Data Link
+N = Network
+T = Transport
+S = Session
+P = Presentation
+A = Application
+
+### Key Takeaway 🤯
+The OSI model is not just theory, every time 
+you send a message, load a website or make a 
+video call, all 7 layers are working together 
+simultaneously to make it happen.
+
+### Status: ✅ Completed
