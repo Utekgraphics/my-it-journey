@@ -292,3 +292,60 @@ video call, all 7 layers are working together
 simultaneously to make it happen.
 
 ### Status: ✅ Completed
+
+---
+
+## 📅 Day 7 - The TCP/IP Model
+**Date:** Thursday, 30th April 2026
+
+### What I Learned:
+
+#### What is the TCP/IP Model?
+- A 4 layered conceptual model that describes 
+  how data is transmitted across the internet
+- More practical than the OSI Model - this is 
+  what the internet actually runs on
+- Each layer handles a specific set of functions
+
+#### The 4 Layers
+
+| Layer | Name | Key Function |
+|---|---|---|
+| 1 | Network Access | Sending and receiving data at local network level |
+| 2 | Internet | IP addressing and routing |
+| 3 | Transport | End to end communication via TCP and UDP |
+| 4 | Application | Sessions, data translation and user interaction |
+
+#### TCP vs UDP (Transport Layer)
+
+| Protocol | Full Name | Type | How it works |
+|---|---|---|---|
+| TCP | Transmission Control Protocol | Connection oriented | Fixed channel, rigorous acknowledgement between sender and receiver |
+| UDP | User Datagram Protocol | Connectionless | No fixed channel, lightweight, no acknowledgement required |
+
+#### When to use TCP vs UDP
+- **TCP** - File downloads, emails, web browsing 
+  (accuracy matters more than speed)
+- **UDP** - Video calls, live streams, online gaming 
+  (speed matters more than perfection)
+
+#### OSI vs TCP/IP Quick Comparison
+
+| OSI Model | TCP/IP Model |
+|---|---|
+| 7 Layers | 4 Layers |
+| Theoretical framework | Practical implementation |
+| Application, Presentation, Session | Application |
+| Transport | Transport |
+| Network | Internet |
+| Data Link, Physical | Network Access |
+
+### Key Takeaway 🤯
+TCP and UDP are not better or worse than each 
+other — they serve different purposes. TCP 
+prioritises accuracy. UDP prioritises speed. 
+The internet needs both.
+
+### Status: ✅ Completed
+
+---
