@@ -1,5 +1,3 @@
----
-
 ## 🖥️ Virtual Machine Lab Setup - Practical Experience
 **Date:** Saturday, 3rd May 2026
 
