@@ -349,7 +349,7 @@ The internet needs both.
 ### Status: ✅ Completed
 
 ---
-## Day 8 - 06 May 2026
+## 📅 Day 8 - 06 May 2026
 ### Topic: VM Security & Malware Containment (Windows 10/8)
 
 ---
