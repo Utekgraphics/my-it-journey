@@ -349,3 +349,50 @@ The internet needs both.
 ### Status: ✅ Completed
 
 ---
+## Day 8 - 06 May 2026
+### Topic: VM Security & Malware Containment (Windows 10/8)
+
+---
+
+### What I Learned
+
+**Virtual Machines running Windows are NOT immune to malware.** Today I explored how they get infected and how to contain threats effectively.
+
+---
+
+### How a Windows VM Gets Infected
+
+| Attack Vector | Description |
+|---|---|
+| Malicious Downloads | Hidden payloads in files (cracks, free software, PDFs) |
+| Shared Folders | Malware crosses between host and VM via shared directories |
+| Drive-by Downloads | Silent installs through vulnerable browsers |
+| Unpatched OS | Exploiting known vulnerabilities in outdated Windows |
+| Macro Attacks | Malicious Word/Excel macros executing scripts |
+| VM Escape | Rare: malware exploits VM software bugs to reach host |
+| Infected ISO/Snapshot | Malware pre-loaded from a tampered Windows install |
+| Network Attacks | Exposure via Bridged network mode |
+
+---
+
+### How to Contain Malware Inside a VM
+
+1. **Disconnect the network adapter immediately** - stops C2 communication & spreading
+2. **Disable shared folders & clipboard** - cuts the bridge to the host machine
+3. **Revert to a clean Snapshot** - instant undo, 100% effective
+4. **Delete the VM entirely** - nuclear option if no snapshot exists
+5. **Suspend the VM** - freeze it in place for safe study/analysis
+
+---
+
+### Key Takeaway
+
+> *A VM is safer than a real PC, but NOT invincible. Snapshots + Network Isolation is the winning combo.*
+
+**The Golden Rule:** Always take a clean snapshot before doing anything risky in a VM.
+
+---
+
+### Resources
+- VMware / VirtualBox snapshot documentation
+- Microsoft Security baseline for Windows 10
