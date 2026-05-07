@@ -449,9 +449,3 @@ Lists files in a directory with detailed permission info:
 
 ---
 
-## 🗂️ Resources
-
-- [ ] Add any tutorials, videos or articles referenced here
-
----
-
