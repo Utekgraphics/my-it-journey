@@ -396,3 +396,62 @@ The internet needs both.
 ### Resources
 - VMware / VirtualBox snapshot documentation
 - Microsoft Security baseline for Windows 10
+
+---
+
+## 📅 Day 9 - 07 May 2026
+## Topic: Operating Systems
+
+> "Every computer has at least one operating system — and it starts working the moment you power on."
+
+---
+
+## 🧠 What I learned
+
+### What is an Operating System?
+
+An **Operating System (OS)** is system software that manages a computer's core functions. It loads the moment a computer is turned on and acts as the bridge between hardware and software. Common examples include:
+
+- 🖥️ **Desktop:** Windows, Linux, macOS
+- 📱 **Mobile:** Android, iOS
+
+---
+
+### ⚙️ Core functions of an OS
+
+| # | Function | Description |
+|---|---|---|
+| 1 | **Process Management** | Tracks and controls all active programs running on the system |
+| 2 | **Memory Management** | Manages RAM (primary/temporary memory) — separate from hard drives which store permanent data |
+| 3 | **File System Management** | Handles creating, renaming, copying, and deleting files and directories |
+| 4 | **I/O Management** | Coordinates input and output devices used to interact with the computer |
+
+> 📝 *Note: There are 8 OS functions in total — the remaining 4 will be covered in upcoming days.*
+
+---
+
+### 💻 Command learned: `ls -l`
+
+```bash
+ls -l
+```
+
+Lists files in a directory with detailed permission info:
+- `r` - read permission
+- `w` - write permission
+- `x` - execute permission
+
+---
+
+## 🔑 Key takeaway
+
+**RAM ≠ Hard Drive.** RAM is fast and temporary (primary memory). Hard drives are for persistent, long-term storage (secondary memory).
+
+---
+
+## 🗂️ Resources
+
+- [ ] Add any tutorials, videos or articles referenced here
+
+---
+
