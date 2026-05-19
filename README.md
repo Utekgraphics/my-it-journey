@@ -449,3 +449,78 @@ Lists files in a directory with detailed permission info:
 
 ---
 
+## 📅 Day 10 - 19 May 2026
+## Topic: File Systems & Understanding Applications
+## 🗂️ Topic 1: File System
+
+A **Filesystem** is a data structure that the Operating System uses to **send and receive data**.  
+It is the method an OS uses to organise, store, and retrieve files on a storage device.
+
+### 🔢 Layers of a Filesystem
+- The filesystem operates in layers, each responsible for how data is structured, accessed, and managed on a storage device.
+
+---
+
+## 📱 Topic 2: Understanding Applications
+
+An **Application** (also known as an **App**) is a computer program designed to perform specific tasks for the user.
+
+### 🔤 Types of Applications
+
+| Type | Description | Examples |
+|---|---|---|
+| **Productivity App** | Allows users to perform daily tasks and engage with information efficiently | Microsoft Word, Google Docs |
+| **Collaboration App** | Helps people work together and communicate efficiently | Slack, Zoom, Microsoft Teams |
+| **Business App** | Designed for business operations and processes | Stock trading apps, Accounting software |
+| **Single Platform** | Runs on only one OS (e.g. Windows only — cannot run on Mac or Linux) | Some Windows-exclusive tools |
+| **Cross Platform** | Runs on multiple operating systems | Google Chrome, Zoom, VS Code |
+
+---
+
+## ⚡ How to Kill (Force Close) an Application
+
+Sometimes apps stop responding or begin to malfunction. Here is how to force close them:
+
+### 🖥️ PC (Windows) Users
+```
+Press: CTRL + ALT + DELETE
+→ View all running apps
+→ Click the app you want to close
+→ Click "End Task"
+```
+
+### 🍎 Mac Users
+```
+Press: CMD + OPTION + ESC
+→ A "Force Quit Applications" window appears
+→ Click the app you want to close
+→ Click "Force Quit"
+```
+
+---
+
+## 📌 Summary
+
+| Concept | Key Takeaway |
+|---|---|
+| Filesystem | Data structure used by OS to send and receive data |
+| Productivity App | Helps users complete daily tasks efficiently |
+| Collaboration App | Enables teamwork and communication |
+| Business App | Supports business operations (e.g. accounting, trading) |
+| Single Platform | Works on one OS only |
+| Cross Platform | Works across multiple OS |
+| Kill App (PC) | CTRL + ALT + DELETE → End Task |
+| Kill App (Mac) | CMD + OPTION + ESC → Force Quit |
+
+---
+
+## ⏭️ Next Up - Day 11: Basics of Software Installation
+
+The journey continues! 🔥  
+Follow along as I document each day of my IT learning journey.
+
+---
+
+> 📂 **Previous:** [Day 9 - Operating Systems](#)  
+> 📂 **Next:** [Day 11 - Basics of Software Installation](#)
+
